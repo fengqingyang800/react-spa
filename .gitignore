@@ -1,0 +1,18 @@
+# node ignore
+node_modules/
+
+# webpack compile ignore
+dist/
+
+#ide file
+.DS_Store
+.idea/
+
+#log file
+ncp-debug.log
+npm-debug.log
+npm-debug.log.*
+
+*.tar.gz
+*.zip
+*.rar
